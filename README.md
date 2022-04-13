@@ -9,7 +9,7 @@ Python addon to mitmproxy to change the time spent in Fluency Builder by Rosetta
 
 ## Install / Setup
 
-- Install certificate as an authority
+- Install certificate from `~./mitmproxy` as an authority
 - Configure your browser to use 127.0.0.1:8080 as proxy
 
 ## Usage
